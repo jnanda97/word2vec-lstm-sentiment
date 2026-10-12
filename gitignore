@@ -1,0 +1,17 @@
+# Dataset (download separately, see README)
+IMDB Dataset.csv
+*.csv
+
+# Trained model artifacts
+*.model
+*.model.*
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
